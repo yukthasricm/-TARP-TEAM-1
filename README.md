@@ -1,5 +1,5 @@
 # -TARP-TEAM-1
-## This Project is contributed by 18MIS002 R N Sneha Priya, 18MIS1017 Sandhiya S, 18MIS1090 Raksha S, 18MIS1108 Aishwariya Subakkar, 18MIS1110 Yuktha Sri. 
+## This Project is contributed by 18MIS002 R N Sneha Priya, 18MIS1017 Sandhiya S, 18MIS1090 Raksha S, 18MIS1108 Aishwariya Subakkar, 18MIS1110 Yuktha Sri.c.m. 
 
 There are a series of processes and configuration which are done for the implementation. They are,
 - Initially, from the board menu, the board manager is selected from which the ESP8266 is being selected. From the ESP8266 we select NodeMCU 1.0.
